@@ -1,0 +1,23 @@
+{
+  "name": "converter-any",
+  "version": "1.0.0",
+  "description": "A JavaScript &amp;amp; HTML &amp;amp; CSS parser, compressor and beautifier toolkit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WeiFei365/converter-any.git"
+  },
+  "author": "WEIFEI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WeiFei365/converter-any/issues"
+  },
+  "homepage": "https://github.com/WeiFei365/converter-any#readme",
+  "dependencies": {
+    "fs-extra": "^4.0.2",
+    "lodash": "^4.17.4"
+  }
+}
